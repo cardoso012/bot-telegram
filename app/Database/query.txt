@@ -1,0 +1,13 @@
+INSERT INTO integracoes_cliente (
+	integracao_id, 
+	cliente_id, 
+	id_configuracao, 
+	campo, 
+	valor
+    ) VALUES (
+	1, 
+	4, 
+	, 
+       '', 
+       'Rdsgf'
+    )
